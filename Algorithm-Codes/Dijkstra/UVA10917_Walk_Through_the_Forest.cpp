@@ -4,6 +4,8 @@ using namespace std;
 
 /*
 Dijkstra + 路徑最優化 DP
+參考資料：
+https://blog.csdn.net/keshuai19940722/article/details/48275113
 */
 
 const int inf = 0x3f3f3f3f;

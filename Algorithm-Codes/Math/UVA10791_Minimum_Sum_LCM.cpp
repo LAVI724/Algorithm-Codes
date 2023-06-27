@@ -4,6 +4,8 @@ using namespace std;
 /*
 Math
 質因數、規律查找
+參考資料：
+https://gist.github.com/jinnatul/bece5de2c568bc369362c65aa4717e80
 */
 
 
